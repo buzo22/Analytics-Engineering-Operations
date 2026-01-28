@@ -1,0 +1,4 @@
+operation_id,asset_id,terminal,operation_type,operation_time,moves
+1,QC01,APAPA,LOAD,2024-01-01 08:15:00,25
+2,QC02,APAPA,DISCHARGE,2024-01-01 09:00:00,30
+3,QC01,APAPA,LOAD,2024-01-01 10:45:00,28
